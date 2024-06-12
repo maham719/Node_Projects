@@ -1,0 +1,19 @@
+{
+  "name": "maham-project05_wordcounter",
+  "version": "1.0.0",
+  "description": "this is a word counter to count words from user input using typescript and inquirer",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "syedamhamamjad",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}

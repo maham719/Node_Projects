@@ -1,0 +1,19 @@
+{
+  "name": "maham_project04_currencyconverter",
+  "version": "1.0.0",
+  "description": "this is a cli currency converter application using typescript , inquirer and chalk",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "syedamahamamjad",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
